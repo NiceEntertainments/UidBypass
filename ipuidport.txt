@@ -1,1 +1,1 @@
-in.venomcommunity.com:25572
+192.168.0.100:8080
